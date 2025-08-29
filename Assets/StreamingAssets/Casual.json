@@ -1,0 +1,642 @@
+[
+    {
+        "idiom": "A blessing in disguise",
+        "proverb": "Every cloud has a silver lining",
+        "story": "Sometimes, what seems bad at first can turn out to be good."
+    },
+    {
+        "idiom": "Break the ice",
+        "proverb": "To initiate conversation in a social setting",
+        "story": "Starting a conversation can be difficult, but it helps to break the ice."
+    },
+    {
+        "idiom": "Burn the midnight oil",
+        "proverb": "To work late into the night",
+        "story": "When deadlines are approaching, staying up late to finish work is often necessary."
+    },
+    {
+        "idiom": "Caught between a rock and a hard place",
+        "proverb": "Facing a dilemma with no good options",
+        "story": "Sometimes, you have to choose between two difficult situations."
+    },
+    {
+        "idiom": "Hit the nail on the head",
+        "proverb": "To be exactly right about something",
+        "story": "When you accurately identify the problem, you hit the nail on the head."
+    },
+    {
+        "idiom": "Let the cat out of the bag",
+        "proverb": "To reveal a secret",
+        "story": "When she accidentally mentioned the surprise party, she let the cat out of the bag."
+    },
+    {
+        "idiom": "Once in a blue moon",
+        "proverb": "Something that happens very rarely",
+        "story": "He only visits his hometown once in a blue moon."
+    },
+    {
+        "idiom": "Piece of cake",
+        "proverb": "Something very easy to do",
+        "story": "The exam was a piece of cake; I finished it in half the time."
+    },
+    {
+        "idiom": "Spill the beans",
+        "proverb": "To disclose secret information",
+        "story": "He spilled the beans about the surprise party."
+    },
+    {
+        "idiom": "The ball is in your court",
+        "proverb": "It’s your decision to make",
+        "story": "I've done all I can; now the ball is in your court."
+    },
+    {
+        "idiom": "Throw in the towel",
+        "proverb": "To give up",
+        "story": "After several failed attempts, he decided to throw in the towel."
+    },
+    {
+        "idiom": "Under the weather",
+        "proverb": "Feeling ill",
+        "story": "I won't be coming to work today; I'm feeling a bit under the weather."
+    },
+    {
+        "idiom": "Bite the bullet",
+        "proverb": "To endure a painful experience",
+        "story": "Sometimes, you have to bite the bullet and face your fears."
+    },
+    {
+        "idiom": "Burning the candle at both ends",
+        "proverb": "To overwork oneself",
+        "story": "She was burning the candle at both ends, working two jobs."
+    },
+    {
+        "idiom": "Caught red-handed",
+        "proverb": "To be caught in the act of doing something wrong",
+        "story": "He was caught red-handed stealing cookies from the jar."
+    },
+    {
+        "idiom": "Every cloud has a silver lining",
+        "proverb": "There is something good in every bad situation",
+        "story": "Even after losing his job, he found a better opportunity; every cloud has a silver lining."
+    },
+    {
+        "idiom": "Get a taste of your own medicine",
+        "proverb": "To experience the same unpleasantness that one has inflicted on others",
+        "story": "After being rude to everyone, he finally got a taste of his own medicine."
+    },
+    {
+        "idiom": "In the same boat",
+        "proverb": "In the same situation",
+        "story": "We're all in the same boat, struggling to meet the deadline."
+    },
+    {
+        "idiom": "Jump on the bandwagon",
+        "proverb": "To join a popular activity or trend",
+        "story": "Everyone is investing in tech stocks; I think I’ll jump on the bandwagon."
+    },
+    {
+        "idiom": "Kill two birds with one stone",
+        "proverb": "To accomplish two tasks with a single action",
+        "story": "By going to the store on my way home, I killed two birds with one stone."
+    },
+    {
+        "idiom": "Let sleeping dogs lie",
+        "proverb": "To avoid interfering in a situation that is currently stable",
+        "story": "It's best to let sleeping dogs lie and not bring up old arguments."
+    },
+    {
+        "idiom": "Make a long story short",
+        "proverb": "To tell something briefly",
+        "story": "To make a long story short, we missed the bus and had to walk."
+    },
+    {
+        "idiom": "No pain, no gain",
+        "proverb": "You have to work hard for something you want",
+        "story": "He trained for months; no pain, no gain."
+    },
+    {
+        "idiom": "On the ball",
+        "proverb": "Alert and efficient",
+        "story": "She is always on the ball and never misses a deadline."
+    },
+    {
+        "idiom": "Out of the frying pan and into the fire",
+        "proverb": "To go from a bad situation to a worse one",
+        "story": "He left his job for another, but it was out of the frying pan and into the fire."
+    },
+    {
+        "idiom": "Put all your eggs in one basket",
+        "proverb": "To risk everything on a single venture",
+        "story": "Investing all your savings in one stock is putting all your eggs in one basket."
+    },
+    {
+        "idiom": "Read between the lines",
+        "proverb": "To understand the hidden meaning",
+        "story": "You need to read between the lines to understand her true feelings."
+    },
+    {
+        "idiom": "Steal someone's thunder",
+        "proverb": "To take credit for someone else's work",
+        "story": "He stole my thunder by presenting my idea as his own."
+    },
+    {
+        "idiom": "The early bird catches the worm",
+        "proverb": "Success comes to those who prepare well and put in effort",
+        "story": "She always wakes up early to study; the early bird catches the worm."
+    },
+    {
+        "idiom": "The elephant in the room",
+        "proverb": "An obvious problem that is being ignored",
+        "story": "We need to address the elephant in the room and talk about our budget issues."
+    },
+    {
+        "idiom": "The whole nine yards",
+        "proverb": "Everything possible",
+        "story": "He went the whole nine yards to make the event successful."
+    },
+    {
+        "idiom": "Throw caution to the wind",
+        "proverb": "To take a risk",
+        "story": "She decided to throw caution to the wind and start her own business."
+    },
+    {
+        "idiom": "Turn a blind eye",
+        "proverb": "To ignore something",
+        "story": "The manager turned a blind eye to the employee's mistakes."
+    },
+    {
+        "idiom": "Two heads are better than one",
+        "proverb": "Collaboration leads to better solutions",
+        "story": "Let's work together; two heads are better than one."
+    },
+    {
+        "idiom": "When pigs fly",
+        "proverb": "Something that will never happen",
+        "story": "He'll clean his room when pigs fly."
+    },
+    {
+        "idiom": "You can't judge a book by its cover",
+        "proverb": "Don't judge someone based on appearance",
+        "story": "She may look unfriendly, but you can't judge a book by its cover."
+    },
+    {
+        "idiom": "A penny for your thoughts",
+        "proverb": "Asking someone what they are thinking",
+        "story": "You seem deep in thought; a penny for your thoughts?"
+    },
+    {
+        "idiom": "Actions speak louder than words",
+        "proverb": "What you do is more important than what you say",
+        "story": "He promised to help, but actions speak louder than words."
+    },
+    {
+        "idiom": "All bark and no bite",
+        "proverb": "Someone who talks tough but doesn't take action",
+        "story": "He talks a lot about being tough, but he's all bark and no bite."
+    },
+    {
+        "idiom": "Barking up the wrong tree",
+        "proverb": "To make a wrong assumption",
+        "story": "If you think I'm the one who broke the vase, you're barking up the wrong tree."
+    },
+    {
+        "idiom": "Bite off more than you can chew",
+        "proverb": "To take on a task that is too big",
+        "story": "He bit off more than he could chew by taking on three projects at once."
+    },
+    {
+        "idiom": "Burn bridges",
+        "proverb": "To destroy relationships",
+        "story": "Be careful not to burn bridges; you may need those connections later."
+    },
+    {
+        "idiom": "Caught in the crossfire",
+        "proverb": "To be caught in a conflict",
+        "story": "The innocent bystander was caught in the crossfire of the argument."
+    },
+    {
+        "idiom": "Don't count your chickens before they hatch",
+        "proverb": "Don't assume success before it happens",
+        "story": "It's too early to celebrate; don't count your chickens before they hatch."
+    },
+    {
+        "idiom": "Every dog has its day",
+        "proverb": "Everyone will have their moment of success",
+        "story": "He finally got his chance to shine; every dog has its day."
+    },
+    {
+        "idiom": "Fool me once, shame on you; fool me twice, shame on me",
+        "proverb": "Learn from your mistakes",
+        "story": "I trusted him again after he lied to me; fool me once, shame on you."
+    },
+    {
+        "idiom": "Get your act together",
+        "proverb": "To organize oneself",
+        "story": "You need to get your act together if you want to succeed."
+    },
+    {
+        "idiom": "Have a chip on your shoulder",
+        "proverb": "To hold a grudge",
+        "story": "He has a chip on his shoulder about not getting promoted."
+    },
+    {
+        "idiom": "In hot water",
+        "proverb": "In trouble",
+        "story": "He found himself in hot water after missing the deadline."
+    },
+    {
+        "idiom": "Jump the gun",
+        "proverb": "To act prematurely",
+        "story": "She jumped the gun by announcing the project before it was approved."
+    },
+    {
+        "idiom": "Keep your chin up",
+        "proverb": "Stay positive",
+        "story": "Even when times are tough, keep your chin up."
+    },
+    {
+        "idiom": "Know the ropes",
+        "proverb": "To understand the details of a task",
+        "story": "It took a while, but now I know the ropes of this job."
+    },
+    {
+        "idiom": "Let the chips fall where they may",
+        "proverb": "To let things happen as they will",
+        "story": "I’ll do my best and let the chips fall where they may."
+    },
+    {
+        "idiom": "Make ends meet",
+        "proverb": "To manage financially",
+        "story": "With rising costs, it's hard to make ends meet."
+    },
+    {
+        "idiom": "No use crying over spilled milk",
+        "proverb": "Don't waste time worrying about things that have already happened",
+        "story": "It's unfortunate, but there's no use crying over spilled milk."
+    },
+    {
+        "idiom": "On thin ice",
+        "proverb": "In a risky situation",
+        "story": "He's on thin ice after missing so many deadlines."
+    },
+    {
+        "idiom": "Out of the blue",
+        "proverb": "Unexpectedly",
+        "story": "She called me out of the blue after years of silence."
+    },
+    {
+        "idiom": "Put your money where your mouth is",
+        "proverb": "To back up your words with actions",
+        "story": "If you believe in this cause, put your money where your mouth is."
+    },
+    {
+        "idiom": "Raining cats and dogs",
+        "proverb": "Raining heavily",
+        "story": "We got soaked because it was raining cats and dogs."
+    },
+    {
+        "idiom": "See eye to eye",
+        "proverb": "To agree",
+        "story": "We finally see eye to eye on the project."
+    },
+    {
+        "idiom": "Sit on the fence",
+        "proverb": "To remain neutral",
+        "story": "You can't sit on the fence; you need to choose a side."
+    },
+    {
+        "idiom": "Spill the tea",
+        "proverb": "To share gossip",
+        "story": "Come on, spill the tea! I want to know what happened."
+    },
+    {
+        "idiom": "Take it with a grain of salt",
+        "proverb": "To view something with skepticism",
+        "story": "I take his advice with a grain of salt; he tends to exaggerate."
+    },
+    {
+        "idiom": "The best of both worlds",
+        "proverb": "The advantages of two different things",
+        "story": "She works in the city and lives in the countryside; she has the best of both worlds."
+    },
+    {
+        "idiom": "The tip of the iceberg",
+        "proverb": "A small part of a much larger problem",
+        "story": "What we see is just the tip of the iceberg."
+    },
+    {
+        "idiom": "Throw someone under the bus",
+        "proverb": "To betray someone for personal gain",
+        "story": "He threw his colleague under the bus to save himself."
+    },
+    {
+        "idiom": "Turn over a new leaf",
+        "proverb": "To start fresh",
+        "story": "After the incident, he decided to turn over a new leaf."
+    },
+    {
+        "idiom": "Walk on eggshells",
+        "proverb": "To be very cautious",
+        "story": "I feel like I’m walking on eggshells around her since she got upset."
+    },
+    {
+        "idiom": "When it rains, it pours",
+        "proverb": "Bad things often happen all at once",
+        "story": "First, I lost my job, and then my car broke down; when it rains, it pours."
+    },
+    {
+        "idiom": "You can't have your cake and eat it too",
+        "proverb": "You can't have it both ways",
+        "story": "If you want to save money, you can't go on expensive vacations; you can't have your cake and eat it too."
+    },
+    {
+        "idiom": "A dime a dozen",
+        "proverb": "Very common and not special",
+        "story": "Those types of souvenirs are a dime a dozen."
+    },
+    {
+        "idiom": "A house of cards",
+        "proverb": "A structure or plan that is unstable",
+        "story": "His business was a house of cards, ready to collapse."
+    },
+    {
+        "idiom": "A leopard can't change its spots",
+        "proverb": "People can't change their inherent nature",
+        "story": "He promised to change, but a leopard can't change its spots."
+    },
+    {
+        "idiom": "All in the same boat",
+        "proverb": "In the same situation",
+        "story": "We're all in the same boat, facing the same challenges."
+    },
+    {
+        "idiom": "Bite the hand that feeds you",
+        "proverb": "To harm someone who helps you",
+        "story": "Don't bite the hand that feeds you; appreciate their support."
+    },
+    {
+        "idiom": "Curiosity killed the cat",
+        "proverb": "Inquisitiveness can lead to trouble",
+        "story": "Be careful; curiosity killed the cat."
+    },
+    {
+        "idiom": "Don't put all your eggs in one basket",
+        "proverb": "Don't risk everything on a single venture",
+        "story": "Invest in different stocks; don't put all your eggs in one basket."
+    },
+    {
+        "idiom": "Every rose has its thorn",
+        "proverb": "Every good thing has a downside",
+        "story": "Life is beautiful, but every rose has its thorn."
+    },
+    {
+        "idiom": "Familiarity breeds contempt",
+        "proverb": "Too much familiarity can lead to a lack of respect",
+        "story": "They used to be friends, but familiarity breeds contempt."
+    },
+    {
+        "idiom": "Good things come to those who wait",
+        "proverb": "Patience is rewarded",
+        "story": "He waited for the right opportunity; good things come to those who wait."
+    },
+    {
+        "idiom": "Haste makes waste",
+        "proverb": "Doing something too quickly can lead to mistakes",
+        "story": "He rushed through the project, and now he has to redo it; haste makes waste."
+    },
+    {
+        "idiom": "If it ain't broke, don't fix it",
+        "proverb": "Don't change something that works well",
+        "story": "The system is working fine; if it ain't broke, don't fix it."
+    },
+    {
+        "idiom": "It's not rocket science",
+        "proverb": "It's not complicated",
+        "story": "This task is easy; it's not rocket science."
+    },
+    {
+        "idiom": "Keep your friends close and your enemies closer",
+        "proverb": "Be aware of your enemies",
+        "story": "He always keeps his rivals close; keep your friends close and your enemies closer."
+    },
+        {
+        "idiom": "Lend me your ear",
+        "proverb": "To listen to someone",
+        "story": "Lend me your ear; I have something important to tell you."
+    },
+    {
+        "idiom": "Make a mountain out of a molehill",
+        "proverb": "To exaggerate a minor issue",
+        "story": "She made a mountain out of a molehill over a small mistake."
+    },
+    {
+        "idiom": "No use beating a dead horse",
+        "proverb": "Don't waste time on something that is already decided",
+        "story": "We’ve already made the decision; there’s no use beating a dead horse."
+    },
+    {
+        "idiom": "Out of sight, out of mind",
+        "proverb": "When something is not visible, it is forgotten",
+        "story": "He moved away, and now he's out of sight, out of mind."
+    },
+    {
+        "idiom": "Put your best foot forward",
+        "proverb": "To make a good impression",
+        "story": "On the first day of school, put your best foot forward."
+    },
+    {
+        "idiom": "Raining cats and dogs",
+        "proverb": "Raining heavily",
+        "story": "We got soaked because it was raining cats and dogs."
+    },
+    {
+        "idiom": "See the writing on the wall",
+        "proverb": "To see the signs of something bad happening",
+        "story": "He saw the writing on the wall and knew he would be fired."
+    },
+    {
+        "idiom": "Shoot for the stars",
+        "proverb": "Aim high",
+        "story": "If you want to succeed, shoot for the stars."
+    },
+    {
+        "idiom": "The grass is always greener on the other side",
+        "proverb": "People often think others have it better",
+        "story": "She thinks her friend's life is perfect, but the grass is always greener on the other side."
+    },
+    {
+        "idiom": "The pot calling the kettle black",
+        "proverb": "Criticizing someone for a fault you have",
+        "story": "It's the pot calling the kettle black when he criticizes her for being late."
+    },
+    {
+        "idiom": "There's no such thing as a free lunch",
+        "proverb": "Everything has a cost",
+        "story": "If you think you can get something for nothing, remember there's no such thing as a free lunch."
+    },
+    {
+        "idiom": "Throw in the towel",
+        "proverb": "To give up",
+        "story": "After several failed attempts, he decided to throw in the towel."
+    },
+    {
+        "idiom": "Turn a blind eye",
+        "proverb": "To ignore something",
+        "story": "The manager turned a blind eye to the employee's mistakes."
+    },
+    {
+        "idiom": "Two peas in a pod",
+        "proverb": "Very similar",
+        "story": "Those two are like two peas in a pod; they do everything together."
+    },
+    {
+        "idiom": "Walk a mile in someone else's shoes",
+        "proverb": "Understand someone else's perspective",
+        "story": "Before judging, walk a mile in someone else's shoes."
+    },
+    {
+        "idiom": "You can't teach an old dog new tricks",
+        "proverb": "It's hard to change someone's habits",
+        "story": "He refuses to learn new technology; you can't teach an old dog new tricks."
+    },
+    {
+        "idiom": "A bird in the hand is worth two in the bush",
+        "proverb": "It's better to have something than to risk it for more",
+        "story": "He decided to keep his job instead of looking for a better one; a bird in the hand is worth two in the bush."
+    },
+    {
+        "idiom": "A penny saved is a penny earned",
+        "proverb": "Saving money is just as important as earning it",
+        "story": "He always saves a portion of his salary; a penny saved is a penny earned."
+    },
+    {
+        "idiom": "All good things come to an end",
+        "proverb": "Nothing lasts forever",
+        "story": "Their vacation was wonderful, but all good things come to an end."
+    },
+    {
+        "idiom": "Barking up the wrong tree",
+        "proverb": "To make a wrong assumption",
+        "story": "If you think I'm the one who broke the vase, you're barking up the wrong tree."
+    },
+    {
+        "idiom": "Don't bite the hand that feeds you",
+        "proverb": "Don't harm those who help you",
+        "story": "He should be grateful for the help; don't bite the hand that feeds you."
+    },
+    {
+        "idiom": "Every cloud has a silver lining",
+        "proverb": "There is something good in every bad situation",
+        "story": "Even after losing his job, he found a better opportunity; every cloud has a silver lining."
+    },
+    {
+        "idiom": "Familiarity breeds contempt",
+        "proverb": "Too much familiarity can lead to a lack of respect",
+        "story": "They used to be friends, but familiarity breeds contempt."
+    },
+    {
+        "idiom": "Good things come to those who wait",
+        "proverb": "Patience is rewarded",
+        "story": "He waited for the right opportunity; good things come to those who wait."
+    },
+    {
+        "idiom": "Haste makes waste",
+        "proverb": "Doing something too quickly can lead to mistakes",
+        "story": "He rushed through the project, and now he has to redo it; haste makes waste."
+    },
+    {
+        "idiom": "If it ain't broke, don't fix it",
+        "proverb": "Don't change something that works well",
+        "story": "The system is working fine; if it ain't broke, don't fix it."
+    },
+    {
+        "idiom": "It's not rocket science",
+        "proverb": "It's not complicated",
+        "story": "This task is easy; it's not rocket science."
+    },
+    {
+        "idiom": "Keep your friends close and your enemies closer",
+        "proverb": "Be aware of your enemies",
+        "story": "He always keeps his rivals close; keep your friends close and your enemies closer."
+    },
+    {
+        "idiom": "Lend me your ear",
+        "proverb": "To listen to someone",
+        "story": "Lend me your ear; I have something important to tell you."
+    },
+    {
+        "idiom": "Make a mountain out of a molehill",
+        "proverb": "To exaggerate a minor issue",
+        "story": "She made a mountain out of a molehill over a small mistake."
+    },
+    {
+        "idiom": "No use crying over spilled milk",
+        "proverb": "Don't waste time worrying about things that have already happened",
+        "story": "It's unfortunate, but there's no use crying over spilled milk."
+    },
+    {
+        "idiom": "Out of sight, out of mind",
+        "proverb": "When something is not visible, it is forgotten",
+        "story": "He moved away, and now he's out of sight, out of mind."
+    },
+    {
+        "idiom": "Put your best foot forward",
+        "proverb": "To make a good impression",
+        "story": "On the first day of school, put your best foot forward."
+    },
+    {
+        "idiom": "Raining cats and dogs",
+        "proverb": "Raining heavily",
+        "story": "We got soaked because it was raining cats and dogs."
+    },
+    {
+        "idiom": "See the writing on the wall",
+        "proverb": "To see the signs of something bad happening",
+        "story": "He saw the writing on the wall and knew he would be fired."
+    },
+    {
+        "idiom": "Shoot for the stars",
+        "proverb": "Aim high",
+        "story": "If you want to succeed, shoot for the stars."
+    },
+    {
+        "idiom": "The grass is always greener on the other side",
+        "proverb": "People often think others have it better",
+        "story": "She thinks her friend's life is perfect, but the grass is always greener on the other side."
+    },
+    {
+        "idiom": "The pot calling the kettle black",
+        "proverb": "Criticizing someone for a fault you have",
+        "story": "It's the pot calling the kettle black when he criticizes her for being late."
+    },
+    {
+        "idiom": "There's no such thing as a free lunch",
+        "proverb": "Everything has a cost",
+        "story": "If you think you can get something for nothing, remember there's no such thing as a free lunch."
+    },
+    {
+        "idiom": "Throw in the towel",
+        "proverb": "To give up",
+        "story": "After several failed attempts, he decided to throw in the towel."
+    },
+    {
+        "idiom": "Turn a blind eye",
+        "proverb": "To ignore something",
+        "story": "The manager turned a blind eye to the employee's mistakes."
+    },
+    {
+        "idiom": "Two peas in a pod",
+        "proverb": "Very similar",
+        "story": "Those two are like two peas in a pod; they do everything together."
+    },
+    {
+        "idiom": "Walk a mile in someone else's shoes",
+        "proverb": "Understand someone else's perspective",
+        "story": "Before judging, walk a mile in someone else's shoes."
+    },
+    {
+        "idiom": "You can't teach an old dog new tricks",
+        "proverb": "It's hard to change someone's habits",
+        "story": "He refuses to learn new technology; you can't teach an old dog new tricks."
+    }
+]
