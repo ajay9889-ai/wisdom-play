@@ -83,43 +83,16 @@ WisdomPlay is more than a game – it’s a **digital cultural learning tool**.
 ---
 
 ## 🏗️ Architecture
-WisdomPlay Architecture
-│
-├── UI Layer (Unity Canvas, Animations, Audio)
-├── Game Logic (C# scripts)
-│ ├── Matching System (Idioms ↔ Proverbs)
-│ ├── Story Display System
-│ ├── Language Manager (multi-language switch)
-│
-├── Data Layer (JSON files)
-│ ├── idioms.json
-│ ├── proverbs.json
-│ ├── stories.json
-│
-└── Assets (Sprites, Audio, Fonts)
+<img width="517" height="503" alt="image" src="https://github.com/user-attachments/assets/74ba7344-6322-4076-9ae3-269f2910c6bd" />
 
-yaml
-Copy code
+
 
 ---
 
 ## 📂 Project Structure
-WisdomPlay/
-│── Assets/
-│ ├── Scripts/ # Game logic (C#)
-│ ├── Resources/ # JSON data files
-│ ├── Audio/ # Voice + sound effects
-│ ├── Sprites/ # Backgrounds, icons, buttons
-│ └── UI/ # Unity UI elements
-│
-│── Packages/ # Unity dependencies
-│── ProjectSettings/ # Unity settings
-│── README.md # Documentation
-│── LICENSE # License file
-│── .gitignore # Ignored files
+<img width="555" height="497" alt="image" src="https://github.com/user-attachments/assets/eaa44e02-c347-41d5-9e11-742f7d9a9cad" />
 
-yaml
-Copy code
+
 
 ---
 
