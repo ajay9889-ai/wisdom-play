@@ -99,7 +99,7 @@ WisdomPlay is more than a game – it’s a **digital cultural learning tool**.
 ## ⚙️ Installation & Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/WisdomPlay.git
+   git clone https://github.com/ajay9889-ai/WisdomPlay.git
    cd WisdomPlay
 Open in Unity Hub
 
